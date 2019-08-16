@@ -1,4 +1,4 @@
-# MS Excel
+# MS Excel : KickStart My Chart
 Using MS Excel, organize and analyze a database of four thousand past projects in order to uncover any hidden trends.
 
 ## Background
